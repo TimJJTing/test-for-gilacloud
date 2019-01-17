@@ -11,7 +11,7 @@ So the sum of little areas is the integration of the anonymous function
 Done.  
 I solved this with my intuition given a limited time. I think there are some better approaches.
 ## Part 2
-a) 請用 Python 寫出一個可以爬 ptt /reddit 任意看板（https://www.ptt.cc）的爬蟲
+a) 請用 Python 寫出一個可以爬 ptt /reddit 任意看板 (https://www.ptt.cc) 的爬蟲
 程式，可以使用任意 Python 套件
 Done.  
 PTT crawler implemented with scrapy  

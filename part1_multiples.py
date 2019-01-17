@@ -6,10 +6,14 @@
 
 def find_multiples_of_3_or_5(below):
     ans = []
+    
+    # multiples of 3
     n = 0
     while 3*n < below:
         ans.append(3*n)
         n += 1
+    
+    # multiples of 5
     n = 0
     while 5*n < below:
         # if n is not a multiple of 3, 5*n won't be.
